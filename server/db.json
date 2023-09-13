@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "email": "nguyenvana@gmail.com",
+      "password": "$2a$10$19Cnt/n/J/yqyoAFKDjy4.HmmO9ZH/8PjB0.suBV3eBKrZBomKi1O",
+      "user_name": "Nguyễn Văn A",
+      "gender": 0,
+      "dateOfBirth": "11/11/2000",
+      "address": "Ha Nam",
+      "id": 2,
+      "role": 1
+    },
+    {
+      "email": "nguyenvand@gmail.com",
+      "password": "$2a$10$8TVKtZT6tnqhnjm21gBUmeXcIAm.w3tiFEO9.uPtkxxDwd2nu8CKS",
+      "user_name": "Nguyễn Văn Dinh",
+      "gender": 0,
+      "dateOfBirth": "11/11/2000",
+      "address": "Thai ",
+      "id": 3,
+      "role": 1
+    },
+    {
+      "email": "nguyenvanc@gmail.com",
+      "password": "$2a$10$DnXDFDq4ZJDGPmwsrrswEO99fKKiBy1bi8FeGdbZMOaWcs4Abmjv2",
+      "user_name": "Nguyễn Văn D",
+      "gender": 2,
+      "dateOfBirth": "11/11/2001",
+      "address": "Ha Noi",
+      "id": 4,
+      "role": 1
+    },
+    {
+      "email": "anh@gmail.com",
+      "password": "$2a$10$ORqQZlXwFyv7CDn8y6swvuMw1Jyz25GskAR/4sTJNziO0pQ1QpU5O",
+      "user_name": "Trần Minh Anh",
+      "gender": 1,
+      "dateOfBirth": "2007-06-13",
+      "address": "Ha Noi",
+      "id": 5,
+      "role": 1
+    },
+    {
+      "email": "nguyenvano@gmail.com",
+      "password": "$2a$10$CpgI8qtPAji2fH3T3HV2eOHkfjEHucetSogac6XtAHveMPxqEj5Iu",
+      "user_name": "An An",
+      "gender": 1,
+      "dateOfBirth": "2023-09-08",
+      "address": "Ha Nam",
+      "id": 6,
+      "role": 1
+    },
+    {
+      "email": "bb@gmail.com",
+      "password": "$2a$10$CgLE1TyTWwnzgCu25AJyN.wSmWZZSnjbRcuH./LMy/K.48Jzn.SgW",
+      "user_name": "bb",
+      "gender": 1,
+      "dateOfBirth": "1997-07-05",
+      "address": "Thai Binh",
+      "id": 7,
+      "role": 0
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Cam sanh",
+      "price": 20000,
+      "from": "mien Tay"
+    },
+    {
+      "id": 2,
+      "product_name": "Cam vàng",
+      "price": 40000,
+      "from": "mien Tay"
+    },
+    {
+      "product_name": "Chôm chôm",
+      "price": 35000,
+      "from": "Miền Nam",
+      "id": 5
+    },
+    {
+      "product_name": "Ổi hồng",
+      "price": 40000,
+      "from": "Miền Nam",
+      "id": 6
+    },
+    {
+      "product_name": "Bưởi da xanh",
+      "price": 56000,
+      "from": "Miền Nam",
+      "id": 7
+    }
+  ]
+}
